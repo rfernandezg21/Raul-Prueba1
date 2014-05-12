@@ -104,6 +104,7 @@ public class Pantalla2 extends javax.swing.JFrame {
         pantallaI.jTextField1.setText("EUREKA!!!!!");
         pantallaI.setVisible(true);
         this.setVisible(false);
+        System.out.println("WILBER");
     }//GEN-LAST:event_jButton2ActionPerformed
 
     /**
